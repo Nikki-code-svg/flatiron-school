@@ -1,0 +1,49 @@
+{
+  "candies": [
+    {
+      "id": "1",
+      "name": "Skittles",
+      "chocolate": false
+    },
+    {
+      "id": "2",
+      "name": "Starburst",
+      "chocolate": false
+    },
+    {
+      "id": "8c9c",
+      "chocolate": true
+    },
+    {
+      "id": "3958",
+      "chocolate": true
+    },
+    {
+      "id": "bec4",
+      "chocolate": true
+    },
+    {
+      "id": "b6ef",
+      "chocolate": false
+    },
+    {
+      "id": "34af",
+      "name": "Reese's",
+      "chocolate": true
+    }
+  ],
+  "cookies": [
+    {
+      "id": "1",
+      "name": "Subway"
+    },
+    {
+      "id": "2",
+      "name": "Tate's"
+    },
+    {
+      "id": "3",
+      "name": "OREO"
+    }
+  ]
+}
